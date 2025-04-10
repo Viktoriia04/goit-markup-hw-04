@@ -306,7 +306,7 @@ img {
 
 .icon-circle {
 width: 40px;
-  height: 40px;
+height: 40px;
   background-color: #4d5ae5;
   border-radius: 50%;
   display: flex;
